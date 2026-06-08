@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Data.csproj",
-      "projectName": "SchoolProject.Data",
-      "projectPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Data.csproj",
+      "projectUniqueName": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Domain.csproj",
+      "projectName": "SchoolProject.Domain",
+      "projectPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Domain.csproj",
       "packagesPath": "C:\\Users\\SMSM-TECH\\.nuget\\packages\\",
       "outputPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\obj\\",
       "projectStyle": "PackageReference",
