@@ -44,8 +44,8 @@
   "libraries": {
     "SchoolProject.Domain/1.0.0": {
       "type": "project",
-      "path": "../SchoolProject.Data/SchoolProject.Domain.csproj",
-      "msbuildProject": "../SchoolProject.Data/SchoolProject.Domain.csproj"
+      "path": "../SchoolProject.Domain/SchoolProject.Domain.csproj",
+      "msbuildProject": "../SchoolProject.Domain/SchoolProject.Domain.csproj"
     },
     "SchoolProject.Infrastructure/1.0.0": {
       "type": "project",
@@ -93,8 +93,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Domain.csproj": {
-              "projectPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Domain.csproj"
+            "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Domain\\SchoolProject.Domain.csproj": {
+              "projectPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Domain\\SchoolProject.Domain.csproj"
             },
             "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj": {
               "projectPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj"

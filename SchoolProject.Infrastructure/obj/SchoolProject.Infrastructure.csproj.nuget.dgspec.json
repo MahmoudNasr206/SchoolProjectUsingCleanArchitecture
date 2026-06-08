@@ -4,14 +4,14 @@
     "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Domain.csproj": {
+    "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Domain\\SchoolProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Domain.csproj",
+        "projectUniqueName": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Domain\\SchoolProject.Domain.csproj",
         "projectName": "SchoolProject.Domain",
-        "projectPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Domain.csproj",
+        "projectPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Domain\\SchoolProject.Domain.csproj",
         "packagesPath": "C:\\Users\\SMSM-TECH\\.nuget\\packages\\",
-        "outputPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\obj\\",
+        "outputPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SMSM-TECH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Domain.csproj": {
-                "projectPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Domain.csproj"
+              "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Domain\\SchoolProject.Domain.csproj": {
+                "projectPath": "E:\\Clean Architecture\\SchoolProject\\SchoolProject.Domain\\SchoolProject.Domain.csproj"
               }
             }
           }

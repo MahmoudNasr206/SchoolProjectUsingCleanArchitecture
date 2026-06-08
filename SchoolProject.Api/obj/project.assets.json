@@ -480,8 +480,8 @@
     },
     "SchoolProject.Domain/1.0.0": {
       "type": "project",
-      "path": "../SchoolProject.Data/SchoolProject.Domain.csproj",
-      "msbuildProject": "../SchoolProject.Data/SchoolProject.Domain.csproj"
+      "path": "../SchoolProject.Domain/SchoolProject.Domain.csproj",
+      "msbuildProject": "../SchoolProject.Domain/SchoolProject.Domain.csproj"
     },
     "SchoolProject.Infrastructure/1.0.0": {
       "type": "project",
